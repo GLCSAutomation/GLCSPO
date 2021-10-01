@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreatePO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db4a4424-cb07-4bf8-a3ae-8b3e3e6def56</testCaseGuid>
+   <variable>
+      <defaultValue>'BINMW00017076'</defaultValue>
+      <description></description>
+      <id>2f77ccd4-7b3c-4db9-a898-7349b7d939be</id>
+      <masked>false</masked>
+      <name>EmptyBinForQC</name>
+   </variable>
+   <variable>
+      <defaultValue>'5'</defaultValue>
+      <description></description>
+      <id>a3ee668b-3be0-4b67-a0b8-a9fcd1375c5c</id>
+      <masked>false</masked>
+      <name>SKUQty</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kite 01'</defaultValue>
+      <description></description>
+      <id>f009c529-9313-43f1-90c4-eb16b405de1b</id>
+      <masked>false</masked>
+      <name>SKUName</name>
+   </variable>
+</TestCaseEntity>
