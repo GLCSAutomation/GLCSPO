@@ -125,7 +125,6 @@ WebUI.click(findTestObject('PO_2_SKU/Page_Maven by Glaucus/button__md-datepicker
 
 WebUI.delay(5)
 
-
 WebUI.click(findTestObject('Object Repository/NewObj/Page_Maven by Glaucus/span_28'))
 
 PONO = WebUI.getText(findTestObject('ORInboundProcess/Page_Maven by Glaucus/td_258210000EX'))
@@ -184,7 +183,6 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/ORGatePass/Page_Mave
     '1', true)
 
 WebUI.click(findTestObject('ORGatePass/Page_Maven by Glaucus/Page_Maven by Glaucus/input__wms-btn primary'))
-
 
 WebUI.delay(2)
 
@@ -257,10 +255,14 @@ WebUI.click(findTestObject('Object Repository/ORInboundProcess/Page_Maven by Gla
 
 WebUI.comment('Unloading start from Inprocess')
 
+WebUI.delay(6)
+
 not_run: WebUI.click(findTestObject('Object Repository/ORInboundProcess/Page_Maven by Glaucus/button_In Process'))
 
 not_run: WebUI.setText(findTestObject('Object Repository/ORInboundProcess/Page_Maven by Glaucus/input_Unloading_search'), 
     GatePassNo)
+
+WebUI.delay(6)
 
 not_run: WebUI.click(findTestObject('Object Repository/ORInboundProcess/Page_Maven by Glaucus/i_Unloading_fa fa-search_1'))
 
@@ -567,9 +569,9 @@ for (int i = 0; i < r; i++) {
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('PO_2_SKU/Page_Maven by Glaucus/Start_putaway_button') //WebUI.setText(findTestObject('Object Repository/ORInboundProcess/Page_Maven by Glaucus/input_To Location_putawayToLocationInput'), 
-    ) //   'KT-1-R2-A1')
-//WebUI.click(findTestObject('Object Repository/ORInboundProcess/Page_Maven by Glaucus/button_Proceed'))
+WebUI.click(findTestObject('PO_2_SKU/Page_Maven by Glaucus/Start_putaway_button' //WebUI.setText(findTestObject('Object Repository/ORInboundProcess/Page_Maven by Glaucus/input_To Location_putawayToLocationInput'), 
+        ) //   'KT-1-R2-A1')
+    ) //WebUI.click(findTestObject('Object Repository/ORInboundProcess/Page_Maven by Glaucus/button_Proceed'))
 
 static String randomString(String chars, int length) {
     Random rand = new Random()

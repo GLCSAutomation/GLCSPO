@@ -261,8 +261,8 @@ WebUI.comment('Unloading start from Inprocess')
 
 not_run: WebUI.click(findTestObject('Object Repository/ORInboundProcess/Page_Maven by Glaucus/button_In Process'))
 
-not_run: WebUI.setText(findTestObject('Object Repository/ORInboundProcess/Page_Maven by Glaucus/input_Unloading_search'), 
-    GatePassNo)
+not_run: WebUI.setText(findTestObject('Object Repository/ORInboundProcess/Page_Maven by Glaucus/input_Unloading_search'),
+	GatePassNo)
 
 not_run: WebUI.click(findTestObject('Object Repository/ORInboundProcess/Page_Maven by Glaucus/i_Unloading_fa fa-search_1'))
 

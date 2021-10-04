@@ -41,14 +41,14 @@
       <name>SKUQty</name>
    </variable>
    <variable>
-      <defaultValue>'BINMW00017473'</defaultValue>
+      <defaultValue>'BINOW00050050'</defaultValue>
       <description></description>
       <id>b933951e-a53f-4a25-b12a-3ca4176bbe37</id>
       <masked>false</masked>
       <name>EmptyBinForQC</name>
    </variable>
    <variable>
-      <defaultValue>'BINMW00017474'</defaultValue>
+      <defaultValue>'BINOW00050051'</defaultValue>
       <description></description>
       <id>cbe46162-6a4c-4c04-a99c-e7e328841ccc</id>
       <masked>false</masked>
