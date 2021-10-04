@@ -123,7 +123,11 @@ WebUI.selectOptionByValue(findTestObject('PO_2_SKU/Page_Maven by Glaucus/select_
 
 WebUI.click(findTestObject('PO_2_SKU/Page_Maven by Glaucus/button__md-datepicker-button md-icon-button_4f517b'))
 
-WebUI.click(findTestObject('PO_2_SKU/Page_Maven by Glaucus/span_3'))
+
+WebUI.delay(5)
+
+
+WebUI.click(findTestObject('Object Repository/NewObj/Page_Maven by Glaucus/span_28'))
 
 WebUI.click(findTestObject('PO_2_SKU/Page_Maven by Glaucus/input_Cancel_POAddSubmit'))
 
