@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Finish</name>
    <tag></tag>
-   <elementGuidId>ff4c59c9-c93c-4dbf-8d46-0a132d3ae915</elementGuidId>
+   <elementGuidId>0551d5f6-13e0-419e-a423-9bcec156df95</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[@id='AuditCreate']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#AuditCreate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='AuditCreate']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

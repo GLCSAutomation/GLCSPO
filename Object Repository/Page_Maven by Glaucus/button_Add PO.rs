@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Add PO</name>
    <tag></tag>
-   <elementGuidId>d7f2a9ab-4fb9-467c-9bca-88763d09a3c7</elementGuidId>
+   <elementGuidId>82510bbc-3abc-48c8-80ae-ebd02441ea84</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[@id='POAddNew']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#POAddNew</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='POAddNew']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

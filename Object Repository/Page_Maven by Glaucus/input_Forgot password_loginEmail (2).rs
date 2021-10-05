@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Forgot password_loginEmail (2)</name>
    <tag></tag>
-   <elementGuidId>f138befe-f9c6-4530-96cf-3687230cd0a4</elementGuidId>
+   <elementGuidId>db7433aa-a6eb-4066-b828-bcf84ee92591</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

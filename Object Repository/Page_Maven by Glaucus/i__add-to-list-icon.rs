@@ -3,11 +3,11 @@
    <description></description>
    <name>i__add-to-list-icon</name>
    <tag></tag>
-   <elementGuidId>b2e24298-f6a1-414a-baea-33b4c6db663b</elementGuidId>
+   <elementGuidId>e696dc1b-221b-4e78-a84a-25c9fd410585</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='actionUnload']/div/div[7]/div/div[7]/i</value>
+         <value>//div/i[@ng-click='addLocationAndPallet()']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -70,7 +70,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='actionUnload']/div/div[7]/div/div[7]/i</value>
+      <value>//div/i[@ng-click='addLocationAndPallet()']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

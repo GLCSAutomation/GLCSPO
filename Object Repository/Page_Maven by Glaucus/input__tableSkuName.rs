@@ -3,15 +3,15 @@
    <description></description>
    <name>input__tableSkuName</name>
    <tag></tag>
-   <elementGuidId>b06e998b-7648-4a65-bdcf-5e54a9083d8b</elementGuidId>
+   <elementGuidId>cddbb669-4857-4886-b657-995071d93116</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='products_value']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#products_value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='products_value']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

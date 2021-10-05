@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Putaway_fas fa-search</name>
+   <tag></tag>
+   <elementGuidId>7eb84dbd-1897-4215-8b46-951742899142</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-search</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[@class=&quot;ng-scope block-ui block-ui-anim-fade&quot;]/ui-view[@class=&quot;ng-scope&quot;]/putaway-component[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row wms-page-title&quot;]/div[@class=&quot;col-xs-12 col-sm-9 flex filter_action&quot;]/form[@class=&quot;ng-valid ng-dirty ng-valid-parse&quot;]/div[@class=&quot;search-section&quot;]/button[@class=&quot;btn btn-default search-btn ng-scope&quot;]/i[@class=&quot;fas fa-search&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+   </webElementXpaths>
+</WebElementEntity>

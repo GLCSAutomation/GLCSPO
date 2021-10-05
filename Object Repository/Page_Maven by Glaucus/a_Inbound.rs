@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Inbound</name>
    <tag></tag>
-   <elementGuidId>4cb9be01-b49a-4a28-87a6-da6a31fc0a20</elementGuidId>
+   <elementGuidId>3370800b-b4b8-4a0d-b04c-14582157d59b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Inbound')]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>a.dropdown-toggle.disabled.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Inbound')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

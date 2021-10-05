@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Next (1)</name>
    <tag></tag>
-   <elementGuidId>af417b76-fd78-4280-8fed-741b3902fb64</elementGuidId>
+   <elementGuidId>fd7fa7cc-c8c3-4d9f-8dee-014cfb8e5df3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

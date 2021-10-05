@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Forgot password_loginPassword</name>
    <tag></tag>
-   <elementGuidId>d138de99-d69b-43fb-88cc-527407da9f36</elementGuidId>
+   <elementGuidId>e70d8229-e584-4b3c-b6fc-b4d67c95644f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='loginPassword']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#loginPassword</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='loginPassword']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

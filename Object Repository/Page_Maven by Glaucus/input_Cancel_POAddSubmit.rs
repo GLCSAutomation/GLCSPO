@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Cancel_POAddSubmit</name>
    <tag></tag>
-   <elementGuidId>428afa53-e980-4250-addc-d936fc9eaac9</elementGuidId>
+   <elementGuidId>c23c3a57-3c70-4617-a71d-96cee6064ea7</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='POAddSubmit']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#POAddSubmit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='POAddSubmit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -77,7 +77,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;addPodialog&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/form[@class=&quot;ng-valid-maxlength ng-valid-mindate ng-valid-maxdate ng-valid-filtered ng-valid-valid ng-valid-uniquepo ng-dirty ng-valid-parse ng-valid ng-valid-required&quot;]/div[@class=&quot;modal-footer ng-scope&quot;]/input[@id=&quot;POAddSubmit&quot;]</value>
+      <value>id(&quot;addPodialog&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/form[@class=&quot;ng-valid-maxlength ng-valid-mindate ng-valid-maxdate ng-valid-filtered ng-valid-valid ng-dirty ng-valid-parse ng-valid-uniquepo ng-valid ng-valid-required&quot;]/div[@class=&quot;modal-footer ng-scope&quot;]/input[@id=&quot;POAddSubmit&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>

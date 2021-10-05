@@ -3,15 +3,15 @@
    <description></description>
    <name>input__LrNumber</name>
    <tag></tag>
-   <elementGuidId>f219a57a-431d-48a9-8f04-4703b0f24a33</elementGuidId>
+   <elementGuidId>cc703661-1156-4d87-9bb9-b456d8028737</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@name='LrNumber']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>input[name=&quot;LrNumber&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='LrNumber']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

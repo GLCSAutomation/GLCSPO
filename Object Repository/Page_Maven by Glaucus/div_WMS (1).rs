@@ -3,7 +3,7 @@
    <description></description>
    <name>div_WMS (1)</name>
    <tag></tag>
-   <elementGuidId>58ac9ca7-1f63-4c52-9525-970a847c3907</elementGuidId>
+   <elementGuidId>d2ac67d8-efb6-402e-aaaa-dc1bc7f10336</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -77,6 +77,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/a/div/div</value>
+      <value>//div[4]/a/div/div</value>
    </webElementXpaths>
 </WebElementEntity>

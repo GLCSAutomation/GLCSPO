@@ -3,14 +3,15 @@
    <description></description>
    <name>span_Putaway</name>
    <tag></tag>
-   <elementGuidId>c70fa586-8b57-418a-9b3b-8863293e21d9</elementGuidId>
+   <elementGuidId>0dbbef8d-8112-4310-8e87-2c194db46e9c</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='GRN'])[1]/following::span[1]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

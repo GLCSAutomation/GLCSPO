@@ -3,14 +3,15 @@
    <description></description>
    <name>button_New</name>
    <tag></tag>
-   <elementGuidId>8aa8ba61-5da7-4d69-a6cb-294d6da580a2</elementGuidId>
+   <elementGuidId>c36fb4f3-61ce-4b6c-ae5b-78d78aac26d4</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[8]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

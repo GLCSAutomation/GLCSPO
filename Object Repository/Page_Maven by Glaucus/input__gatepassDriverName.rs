@@ -3,15 +3,15 @@
    <description></description>
    <name>input__gatepassDriverName</name>
    <tag></tag>
-   <elementGuidId>d2aad91a-90d6-4686-9bcd-87ff99c0cb7a</elementGuidId>
+   <elementGuidId>f4169803-21ef-45b3-b13e-2f5720748e78</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@name='gatepassDriverName']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>input[name=&quot;gatepassDriverName&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='gatepassDriverName']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

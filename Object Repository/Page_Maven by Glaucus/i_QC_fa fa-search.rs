@@ -3,7 +3,7 @@
    <description></description>
    <name>i_QC_fa fa-search</name>
    <tag></tag>
-   <elementGuidId>0b5a267f-66cf-44e8-9aab-a8a9ff04474f</elementGuidId>
+   <elementGuidId>f7be54b6-de27-41e4-acc7-299a41abf8a1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

@@ -3,15 +3,15 @@
    <description></description>
    <name>form_Forgot password                       _f102d3</name>
    <tag></tag>
-   <elementGuidId>20aa1514-a3a9-41e9-8446-da2323cd1cbb</elementGuidId>
+   <elementGuidId>1cfab620-a5e7-49d9-be3a-5e35539195c2</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form.main-form.ng-valid.ng-dirty.ng-valid-parse</value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//form</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>form.main-form.ng-pristine.ng-valid</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>main-form ng-pristine ng-valid</value>
+      <value>main-form ng-valid ng-dirty ng-valid-parse</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/div[@class=&quot;ng-scope&quot;]/section[@class=&quot;register-container ng-scope&quot;]/div[@class=&quot;form-wrapper-om small-width&quot;]/div[@class=&quot;form-design login style-one no-padding&quot;]/form[@class=&quot;main-form ng-pristine ng-valid&quot;]</value>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/div[@class=&quot;ng-scope&quot;]/section[@class=&quot;register-container ng-scope&quot;]/div[@class=&quot;form-wrapper-om small-width&quot;]/div[@class=&quot;form-design login style-one no-padding&quot;]/form[@class=&quot;main-form ng-valid ng-dirty ng-valid-parse&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>

@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Next</name>
    <tag></tag>
-   <elementGuidId>2c9af690-6805-4645-a07e-dbf7e6e62bc8</elementGuidId>
+   <elementGuidId>cc418acb-d010-498b-b2fa-c182008d06b8</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[@id='getClients']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#getClients</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='getClients']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

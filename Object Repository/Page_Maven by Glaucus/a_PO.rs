@@ -3,15 +3,15 @@
    <description></description>
    <name>a_PO</name>
    <tag></tag>
-   <elementGuidId>67e57e91-5691-4eab-bfb4-3bdfa4b5ec91</elementGuidId>
+   <elementGuidId>ba2aee45-1dc5-44db-9fe7-e6beae403818</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='menuSection']/nav/ul/li[5]/div/ul/li/a</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>ul.headsub.dropdown-menu.visible > li.ng-scope > a[title=&quot;CTRL+click to open in new tab&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menuSection']/nav/ul/li[5]/div/ul/li/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

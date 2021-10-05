@@ -3,7 +3,7 @@
    <description></description>
    <name>input__login-submit gl-form-action-submit (1)</name>
    <tag></tag>
-   <elementGuidId>83a45070-ab69-4394-b7a1-0686af672a4f</elementGuidId>
+   <elementGuidId>d06a930e-412a-4af3-82ba-d91f461382f1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

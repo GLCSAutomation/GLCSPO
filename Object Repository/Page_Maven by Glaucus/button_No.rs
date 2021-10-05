@@ -3,15 +3,15 @@
    <description></description>
    <name>button_No</name>
    <tag></tag>
-   <elementGuidId>e8db9a01-03d1-4274-abd7-b3e1aea9d35a</elementGuidId>
+   <elementGuidId>c5094277-c972-43f5-ad26-5d9d0c2be0ec</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(//button[@id='SOCnfrmSubmit'])[2]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#skuScanBasis > div.modal-dialog.modal-md > div.modal-content > div.modal-footer > #SOCnfrmSubmit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='SOCnfrmSubmit'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

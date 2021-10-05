@@ -3,10 +3,11 @@
    <description></description>
    <name>a_GRN</name>
    <tag></tag>
-   <elementGuidId>ee04979a-0cea-4535-b7b8-35a6abd8dbff</elementGuidId>
+   <elementGuidId>b7589ccb-6fe3-42d0-af7e-d53031d71925</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

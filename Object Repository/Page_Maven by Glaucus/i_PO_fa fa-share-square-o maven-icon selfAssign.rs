@@ -3,15 +3,15 @@
    <description></description>
    <name>i_PO_fa fa-share-square-o maven-icon selfAssign</name>
    <tag></tag>
-   <elementGuidId>cb3f4419-ec14-4484-8f44-d522ac3752c3</elementGuidId>
+   <elementGuidId>0830a90c-a807-4f8e-ae33-65ae4b7ee2ff</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//table[@id='auditListTable']/tbody/tr/td[9]/ul/li/i</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>i.fa.fa-share-square-o.maven-icon.selfAssign</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='auditListTable']/tbody/tr/td[9]/ul/li/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

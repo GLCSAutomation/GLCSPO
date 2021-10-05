@@ -3,15 +3,15 @@
    <description></description>
    <name>select_Select Vehicle TypeAcePickupTata 407_eedf82</name>
    <tag></tag>
-   <elementGuidId>eeb5b018-ef2d-4fd2-8097-4ca637259727</elementGuidId>
+   <elementGuidId>b3894335-099e-418c-a958-e5896ce657f3</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//select[@name='gatepassVehicleType']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>select[name=&quot;gatepassVehicleType&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='gatepassVehicleType']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

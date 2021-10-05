@@ -3,15 +3,15 @@
    <description></description>
    <name>button__md-datepicker-button md-icon-button_4f517b</name>
    <tag></tag>
-   <elementGuidId>ed86cbaa-a194-4080-b0e8-cd546e8c56e4</elementGuidId>
+   <elementGuidId>26e71bc9-ad11-4b97-bf16-5d699c5ea08b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[39]</value>
+         <key>CSS</key>
+         <value>#POAddExDel > button.md-datepicker-button.md-icon-button.md-button.md-ink-ripple</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#POAddPDate > button.md-datepicker-button.md-icon-button.md-button.md-ink-ripple</value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[43]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -63,48 +63,41 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;table1&quot;)/div[@class=&quot;full_width modal-custom-col clearfix ng-scope&quot;]/div[@class=&quot;col-xs-12 col-md-3&quot;]/div[@class=&quot;box-level&quot;]/div[@class=&quot;fill-box_new&quot;]/div[@class=&quot;input_con&quot;]/md-datepicker[@id=&quot;POAddPDate&quot;]/button[@class=&quot;md-datepicker-button md-icon-button md-button md-ink-ripple&quot;]</value>
+      <value>id(&quot;POAddExDel&quot;)/button[@class=&quot;md-datepicker-button md-icon-button md-button md-ink-ripple&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[39]</value>
+      <value>(//button[@type='button'])[43]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//md-datepicker[@id='POAddPDate']/button</value>
+      <value>//md-datepicker[@id='POAddExDel']/button</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expiry Date'])[2]/preceding::button[2]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expected Delivery Date'])[1]/preceding::button[4]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks'])[1]/preceding::button[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div/md-datepicker/button</value>
+      <value>//div[4]/div/div/div/md-datepicker/button</value>
    </webElementXpaths>
 </WebElementEntity>

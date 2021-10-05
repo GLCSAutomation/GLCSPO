@@ -3,15 +3,15 @@
    <description></description>
    <name>input__login-submit gl-form-action-submit</name>
    <tag></tag>
-   <elementGuidId>a8e56c4a-9f2f-4787-94d7-8e63462b3d11</elementGuidId>
+   <elementGuidId>6e14c112-3e83-485e-91ab-e4d60f304cd7</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@value='NEXT']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>input.login-submit.gl-form-action-submit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='NEXT']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

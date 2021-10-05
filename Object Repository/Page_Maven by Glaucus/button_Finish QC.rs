@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Finish QC</name>
    <tag></tag>
-   <elementGuidId>c54b8502-e160-4522-8c79-91ee5436fe70</elementGuidId>
+   <elementGuidId>648dbf07-76e4-4cf9-a3c1-a06b441c0442</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(//button[@id='commonConfirmationSuccessButton'])[3]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>form[name=&quot;commonConfirmationPopup&quot;] > div.modal-content > div.modal-footer > #commonConfirmationSuccessButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='commonConfirmationSuccessButton'])[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

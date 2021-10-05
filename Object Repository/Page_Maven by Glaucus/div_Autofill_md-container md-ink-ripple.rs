@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Autofill_md-container md-ink-ripple</name>
    <tag></tag>
-   <elementGuidId>410838d6-9e1d-4919-afa1-34a85db4bd79</elementGuidId>
+   <elementGuidId>66dc4c78-e7cb-4821-9115-e876d8cb5a83</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//md-checkbox[@id='POInvCheckbox2']/div</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#POInvCheckbox2 > div.md-container.md-ink-ripple</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-checkbox[@id='POInvCheckbox2']/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,10 +3,11 @@
    <description></description>
    <name>a_QC</name>
    <tag></tag>
-   <elementGuidId>3c402687-301e-451f-8c21-27190dbced07</elementGuidId>
+   <elementGuidId>156fa10b-481a-4ea9-bbef-79428ca3a944</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

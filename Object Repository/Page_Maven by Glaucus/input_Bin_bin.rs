@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Bin_bin</name>
    <tag></tag>
-   <elementGuidId>b7f8982e-5583-4009-bcca-3822c4c34b10</elementGuidId>
+   <elementGuidId>b81f0f62-9b6c-49ca-9bad-726f8680b7eb</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='bin']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#bin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='bin']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

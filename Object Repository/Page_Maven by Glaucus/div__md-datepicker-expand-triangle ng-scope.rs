@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__md-datepicker-expand-triangle ng-scope</name>
+   <tag></tag>
+   <elementGuidId>f9eb188e-0a4e-4bd7-bc81-410a43012e33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.md-datepicker-expand-triangle.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-datepicker[@id='PurchasInvoiceDateTime']/div/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-datepicker-expand-triangle ng-scope</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;editValidation&quot;)/form[@class=&quot;ng-valid-mindate ng-valid-maxdate ng-valid-filtered ng-valid-valid ng-invalid ng-invalid-required ng-invalid-autocomplete-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;full-width&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-lg-12 text-right no-padding bg-faded&quot;]/div[@class=&quot;full-width&quot;]/div[@class=&quot;col-lg-3 col-md-3 col-sm-12 col-xs-12&quot;]/div[@class=&quot;full-width&quot;]/div[@class=&quot;col-md-7 no-padding-left&quot;]/md-datepicker[@id=&quot;PurchasInvoiceDateTime&quot;]/div[@class=&quot;md-datepicker-input-container&quot;]/button[@class=&quot;md-datepicker-triangle-button md-icon-button md-button&quot;]/div[@class=&quot;md-datepicker-expand-triangle ng-scope&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-datepicker[@id='PurchasInvoiceDateTime']/div/button/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+   </webElementXpaths>
+</WebElementEntity>

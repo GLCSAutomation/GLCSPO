@@ -3,14 +3,15 @@
    <description></description>
    <name>a_Gatepass</name>
    <tag></tag>
-   <elementGuidId>47bb7a9b-28e7-4941-a45d-0d5d119466e4</elementGuidId>
+   <elementGuidId>46e22ffe-d72a-41af-8df4-792a42055879</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'Gatepass')]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

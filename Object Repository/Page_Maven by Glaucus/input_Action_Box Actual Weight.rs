@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Action_Box Actual Weight</name>
    <tag></tag>
-   <elementGuidId>445db29d-a45c-4965-85ba-b332418d8965</elementGuidId>
+   <elementGuidId>7e1f3e59-cb93-45ea-8f14-6d99e2d83e81</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='boxActualWeight']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#boxActualWeight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='boxActualWeight']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -70,7 +70,7 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control darkgrey-bottom-border textRightOnFocus ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-not-empty-add ng-pristine-remove ng-dirty-add ng-valid-parse-add ng-valid-add ng-invalid-remove ng-valid-required-add ng-invalid-required-remove</value>
+      <value>form-control darkgrey-bottom-border textRightOnFocus ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <matchCondition>equals</matchCondition>
       <name>aria-invalid</name>
       <type>Main</type>
-      <value>false</value>
+      <value>true</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,13 +92,6 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-ng-animate</name>
-      <type>Main</type>
-      <value>2</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

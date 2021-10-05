@@ -3,15 +3,15 @@
    <description></description>
    <name>input__InvoiceNumber</name>
    <tag></tag>
-   <elementGuidId>5ee1cf08-36ae-4949-b2f4-96644d80debe</elementGuidId>
+   <elementGuidId>ba0f20f0-4a26-4584-b82f-5e24f3c44605</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@name='InvoiceNumber']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>input[name=&quot;InvoiceNumber&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='InvoiceNumber']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

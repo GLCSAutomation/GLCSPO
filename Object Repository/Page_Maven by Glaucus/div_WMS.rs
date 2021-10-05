@@ -3,15 +3,15 @@
    <description></description>
    <name>div_WMS</name>
    <tag></tag>
-   <elementGuidId>b4037b69-9a0b-4617-a88d-4e3b448d1e5b</elementGuidId>
+   <elementGuidId>43f86aef-15d8-40da-8a88-fd2393bbb2b0</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[contains(text(),'WMS')]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>a.fm-main-option.fm-first.fm-second > div.fm-main-content > div.fm-head.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Management System'])[1]/following::div[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -77,6 +77,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/a/div/div</value>
+      <value>//div[4]/a/div/div</value>
    </webElementXpaths>
 </WebElementEntity>

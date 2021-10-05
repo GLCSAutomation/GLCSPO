@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Add to list</name>
    <tag></tag>
-   <elementGuidId>0d606c85-0a89-4c31-a29a-ef9983a24b36</elementGuidId>
+   <elementGuidId>3cc4cb3b-57b2-4f99-ba7d-a855b0a3df27</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//span[@id='POAddSAdd']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#POAddSAdd</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='POAddSAdd']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

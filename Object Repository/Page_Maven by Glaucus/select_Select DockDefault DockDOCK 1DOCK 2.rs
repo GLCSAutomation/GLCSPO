@@ -3,15 +3,15 @@
    <description></description>
    <name>select_Select DockDefault DockDOCK 1DOCK 2</name>
    <tag></tag>
-   <elementGuidId>e4031f83-bccd-45bb-b559-3f4c5a9181e5</elementGuidId>
+   <elementGuidId>c1e8d0db-8b05-4c4e-ba61-cd5a216a3dab</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//select[@name='gatepassGate']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>select[name=&quot;gatepassGate&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='gatepassGate']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

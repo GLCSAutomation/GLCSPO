@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Close</name>
    <tag></tag>
-   <elementGuidId>f3983d61-e546-4bb2-a077-be8ec96d1a6e</elementGuidId>
+   <elementGuidId>475a9b1a-17cb-49e3-9604-1ea1a4d2efac</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[@id='Close']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#Close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='Close']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -58,7 +58,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;Close&quot;)</value>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[@class=&quot;ng-scope block-ui block-ui-anim-fade modal-open&quot;]/ui-view[@class=&quot;ng-scope&quot;]/unload-component[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@id=&quot;printLabels&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@id=&quot;Close&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[11]/following::button[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Tasks Available'])[1]/following::button[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,8 +98,15 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='?'])[1]/preceding::button[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div/div[3]/button</value>
+      <value>//div[4]/div/div/div/div[3]/button</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Proceed</name>
    <tag></tag>
-   <elementGuidId>192f8451-4773-46a9-9e83-5fc4ef314f7d</elementGuidId>
+   <elementGuidId>fb52950f-5ffe-4080-ac2e-afb73ad4c3b0</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[@id='startPutaway']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#startPutaway</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='startPutaway']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

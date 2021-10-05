@@ -3,14 +3,15 @@
    <description></description>
    <name>span_Document Validation</name>
    <tag></tag>
-   <elementGuidId>f70e9e06-3c7b-4186-a886-841a4388a2e3</elementGuidId>
+   <elementGuidId>4b1495c0-855d-4626-a691-565f7a91e4b3</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Unloading'])[1]/following::span[1]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

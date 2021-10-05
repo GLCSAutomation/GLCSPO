@@ -3,15 +3,15 @@
    <description></description>
    <name>select_Select                              _01ca08</name>
    <tag></tag>
-   <elementGuidId>bf7b77f6-91f3-425e-84ad-5566a417a705</elementGuidId>
+   <elementGuidId>b4742fc0-4c9c-48a0-956d-06d3605f51f1</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//select[@id='POAddSO']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#POAddSO</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='POAddSO']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

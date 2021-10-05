@@ -3,7 +3,7 @@
    <description></description>
    <name>input_QC_search</name>
    <tag></tag>
-   <elementGuidId>26dfdf84-d8a5-48ee-85c6-fccb03dcda0a</elementGuidId>
+   <elementGuidId>e2395755-92cc-4da0-8b54-31997406787f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

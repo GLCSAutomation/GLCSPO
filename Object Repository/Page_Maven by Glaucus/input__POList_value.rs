@@ -3,15 +3,15 @@
    <description></description>
    <name>input__POList_value</name>
    <tag></tag>
-   <elementGuidId>fd197229-588c-4ccf-8320-c59dcb7651d0</elementGuidId>
+   <elementGuidId>6e93698a-50ec-4cd8-9abc-52b488037aed</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='POList_value']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#POList_value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='POList_value']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

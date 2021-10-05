@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Action_Box Count</name>
    <tag></tag>
-   <elementGuidId>3227f11c-5948-4da3-990d-f727d9c07ce3</elementGuidId>
+   <elementGuidId>b404e0e2-347e-4154-a879-f48da6beb99b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@name='Box Count']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>input[name=&quot;Box Count&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='Box Count']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

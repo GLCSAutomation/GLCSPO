@@ -3,15 +3,15 @@
    <description></description>
    <name>select_Select Vehicle ConditionGoodBad</name>
    <tag></tag>
-   <elementGuidId>96b20fc2-7e50-4baf-ade8-497d006759cd</elementGuidId>
+   <elementGuidId>350963f3-5b1d-4dd7-88ff-53d6ed4f9a21</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//select[@name='gatepassVehicleCondition']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>select[name=&quot;gatepassVehicleCondition&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='gatepassVehicleCondition']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

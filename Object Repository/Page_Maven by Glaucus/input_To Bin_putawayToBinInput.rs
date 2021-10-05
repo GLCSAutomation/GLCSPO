@@ -3,15 +3,15 @@
    <description></description>
    <name>input_To Bin_putawayToBinInput</name>
    <tag></tag>
-   <elementGuidId>8405cc15-eaa5-483f-9677-6eaab9154ead</elementGuidId>
+   <elementGuidId>3ea43247-8c7f-49da-8452-5863fce8aedc</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='putawayToBinInput']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#putawayToBinInput</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='putawayToBinInput']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,15 +3,15 @@
    <description></description>
    <name>input__price</name>
    <tag></tag>
-   <elementGuidId>672e0b08-32aa-4108-b68c-fe8050570527</elementGuidId>
+   <elementGuidId>c522eac1-d964-4247-ad3b-9654139b2732</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='POAddPrice']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#POAddPrice</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='POAddPrice']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

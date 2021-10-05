@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Log In (2)</name>
    <tag></tag>
-   <elementGuidId>bac8bda8-422f-4ff5-b89e-97ed0eb07a9d</elementGuidId>
+   <elementGuidId>434dfd77-2efd-4a1f-9f58-898fa88cedbd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

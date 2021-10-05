@@ -3,14 +3,15 @@
    <description></description>
    <name>a_Purchases</name>
    <tag></tag>
-   <elementGuidId>487d3a1a-4733-4af6-b055-0d0c12938553</elementGuidId>
+   <elementGuidId>48c80627-8e7a-4ec7-848a-74cee48fd19a</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='menuSection']/nav/ul/li[5]/div/div/a</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

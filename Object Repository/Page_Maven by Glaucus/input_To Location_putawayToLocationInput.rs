@@ -3,15 +3,15 @@
    <description></description>
    <name>input_To Location_putawayToLocationInput</name>
    <tag></tag>
-   <elementGuidId>31e66953-09d3-401e-aa5b-3cc4680dcda0</elementGuidId>
+   <elementGuidId>df5db9e0-329c-415b-a20b-74e5f3a815bc</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='putawayToLocationInput']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#putawayToLocationInput</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='putawayToLocationInput']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
